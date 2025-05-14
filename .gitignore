@@ -1,0 +1,43 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+
+# Ignore build and compilation files
+build/
+node_modules/
+dist/
+target/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore binary files
+*.exe
+*.bin
+*.zip
+*.rar
+*.tar
+*.gz
+*.bz2
+
+# Ignore configuration files
+.env
+config.json
+settings.json
+
+# Ignore documentation files
+docs/
+README.md
+
+# Ignore test files
+test/
+tests/
+spec/
+coverage/
