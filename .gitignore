@@ -34,7 +34,6 @@ settings.json
 
 # Ignore documentation files
 docs/
-README.md
 
 # Ignore test files
 test/
