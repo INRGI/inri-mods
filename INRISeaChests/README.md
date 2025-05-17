@@ -37,15 +37,6 @@ This mod adds **10 high-quality Sea Chest variants**, each available in a unique
 
 ---
 
-## 📂 File Structure
-
-All textures are located at:
-
-Each Sea Chest uses `hiddenSelectionsTextures[]` to apply its color-specific `.paa` texture.  
-Config class: `CfgVehicles > SeaChest > INRISeaChest_XXX`
-
----
-
 ## 📜 Terms of Use
 
 - ✅ **Allowed**: Use on public/private servers  

@@ -35,23 +35,15 @@ Each crate comes in a unique color and provides between **200** to **1000** item
 
 ---
 
-## 📂 File Structure
-
-All textures are located under:
-
-
-Each `.paa` texture is matched to the crate's color and used via `hiddenSelectionsTextures`.
-
----
-
 ## 📜 Terms of Use
 
-- ✅ **You may use this mod on your server.**
-- ✅ **You may modify config files for personal or server use.**
-- ❌ **You are NOT allowed to change or replace the crate textures.**
-- ✅ **You may include this mod in modpacks with credit.**
+- ✅ **Allowed**: Use on public/private servers  
+- ✅ **Allowed**: Modify configs (slots, cargo size, etc.)  
+- ✅ **Allowed**: Include in modpacks (with credit)  
+- ❌ **Not Allowed**: Modify or replace `.paa` textures  
+- ❌ **Not Allowed**: Reupload with edited textures or branding
 
-Please respect the effort behind this creation. Texture editing or reuploading modified textures is strictly forbidden.
+Please respect the original work. For custom edits, feel free to contact us first.
 
 ---
 
