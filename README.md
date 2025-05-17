@@ -16,6 +16,7 @@ This repository contains several standalone mods, each carefully crafted to brin
 |------------------------------|--------------------------------------------------------------------|
 | [INRI Sea Chests](./INRISeaChests)     | 10 color variants of stylized sea chests with different storage capacities. |
 | [INRI Wooden Crates](./INRIWoodenCrates) | Compact and clean wooden crates for modular storage and base organization.  |
+| [INRI Barrels](./INRI_Barrels) | A set of beautifully textured barrels with distinct themes.  |
 
 ---
 
