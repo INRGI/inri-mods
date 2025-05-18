@@ -1,14 +1,3 @@
-
-## 📜 Classnames
-
-| Case Name          | Classname     | Slots |
-|--------------------|---------------|--------|
-| Micro Madness      | `Meme1_100`   | 100    |
-| Mid Cringe         | `Meme2_200`   | 200    |
-| Hard Rofl          | `Meme3_300`   | 300    |
-| Cringe Overload    | `Meme4_500`   | 500    |
-| Hyper Reaction     | `Meme5_1000`  | 1000   |
-
 <p align="right">
   <img src="https://github.com/user-attachments/assets/838d2f89-99fc-4443-93ec-08efdd922272" alt="INRI Mod Logo" height="100"/>
 </p>
