@@ -65,4 +65,4 @@ Feel free to comment or open an issue — constructive feedback is always welcom
 
 ---
 
-© INRI Modding — Custom content for immersive DayZ experiences.
+© INRI Modding
