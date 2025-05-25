@@ -48,7 +48,7 @@ Please respect the original work. For custom edits, feel free to contact us firs
 
 1. Download the mod or subscribe via Steam Workshop (if published).
 2. Add it to your server's `-mod` startup parameter, for example:
-3. (Optional) If using custom dependencies, include `INRI_Barrels` in your mission's `CfgPatches`.
+3. (Optional) If using custom dependencies, include `INRIBarrels` in your mission's `CfgPatches`.
 
 ---
 

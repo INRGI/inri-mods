@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class INRI_Barrels
+	class INRIBarrels
 	{
           units[] = {
               "Barrel_SamuraiPurple",
@@ -22,14 +22,14 @@ class CfgPatches
 
 class CfgMods
 {
-	class INRI_Barrels
+	class INRIBarrels
 	{
-		dir = "INRI_Barrels"; 								
+		dir = "INRIBarrels"; 								
 		picture = "";	
 		action = "";	
 		hideName = 0;	
 		hidePicture = 1;		
-		name = "INRI_Barrels";	
+		name = "INRIBarrels";	
 		author = "INRI";									
 		authorID = "";	
 		version = "1.5";
@@ -51,7 +51,7 @@ class CfgVehicles
                 color = "Purple";
 		hiddenSelectionsTextures[] =
 		{
-			"INRI_Barrels\data\samurai_barrel.paa"				
+			"INRIBarrels\data\samurai_barrel.paa"				
 		};
 		itemSize[] = {4,5};
 		class Cargo
@@ -67,7 +67,7 @@ class CfgVehicles
                 color = "Black";
 		hiddenSelectionsTextures[] =
 		{
-			"INRI_Barrels\data\black_raven.paa"				
+			"INRIBarrels\data\black_raven.paa"				
 		};
 		itemSize[] = {4,5};
 		class Cargo
@@ -83,7 +83,7 @@ class CfgVehicles
                 color = "Blue";
 		hiddenSelectionsTextures[] =
 		{
-			"INRI_Barrels\data\blue_samurai.paa"				
+			"INRIBarrels\data\blue_samurai.paa"				
 		};
 		itemSize[] = {4,5};
 		class Cargo
@@ -99,7 +99,7 @@ class CfgVehicles
                 color = "Grey";
 		hiddenSelectionsTextures[] =
 		{
-			"INRI_Barrels\data\grey_graves.paa"				
+			"INRIBarrels\data\grey_graves.paa"				
 		};
 		itemSize[] = {4,5};
 		class Cargo
@@ -115,7 +115,7 @@ class CfgVehicles
                 color = "Pink";
 		hiddenSelectionsTextures[] =
 		{
-			"INRI_Barrels\data\pink_girl.paa"				
+			"INRIBarrels\data\pink_girl.paa"				
 		};
 		itemSize[] = {4,5};
 		class Cargo
